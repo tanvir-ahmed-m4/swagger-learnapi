@@ -1,0 +1,9 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "version" : "1",
+    "title" : "Learning to develop API",
+    "description" : "Learning to develop API"
+  },
+  "paths" : { }
+}
